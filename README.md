@@ -1,5 +1,4 @@
-# pratica-integrada-cd-e-am-2021-1-g2-dmjn
-pratica-integrada-cd-e-am-2021-1-g2-dmjn created by GitHub Classroom
+# Pratica Integrada CD e AM 2021/1
 
 Essa prática foi um grande projeto em que estudantes das disciplinas de Tópicos Especiais em Ciência de Dados,
 Aprendizado de Máquina e Inteligência Artificial do IFB se uniram em grupos para desenvolver uma série de scripts e 
