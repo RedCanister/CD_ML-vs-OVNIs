@@ -1,4 +1,4 @@
-# Pratica Integrada CD e AM 2021/1
+# Pratica Integrada CD e AM 2021/1 (PT-BR)
 
 Essa prática foi um grande projeto em que estudantes das disciplinas de Tópicos Especiais em Ciência de Dados,
 Aprendizado de Máquina e Inteligência Artificial do IFB se uniram em grupos para desenvolver uma série de scripts e 
