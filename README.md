@@ -12,8 +12,6 @@ toda a prática foi dividida em três
     3 - Análise temporal com o modelo SARIMAX de ML a partir do MongoDB.
 Além de uma atividade escolar, essa prática foi uma experiência com as novas tecnologias que estão em mais demanda no
 mercado e em instituições no mundo todo. Com isso, me sinto preparado para continuar aplicando esse conhecimento 
-solucionando os diferentes problemas que a vida pode apresentar, só que pessoalmente, pela causa antirracista, 
-apresentando posts e relatórios que elucidem a realidade pouco discutida da Escravidão Moderna e a sub-representação de
-minorias sociais, pela oportunidade de cada um de nós de defender seus direitos.
+solucionando os diferentes problemas que a área de Ti pode apresentar, só que pessoalmente, faço isso pela causa antirracista, apresentando posts e relatórios que elucidem a realidade pouco discutida da Escravidão Moderna e a sub-representação de minorias sociais, pela oportunidade de cada um de nós de defender seus direitos.
 
 Obrigado por visitar!
