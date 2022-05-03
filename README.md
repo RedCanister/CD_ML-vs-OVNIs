@@ -4,7 +4,7 @@ Essa prática foi um grande projeto em que estudantes das disciplinas de Tópico
 Aprendizado de Máquina e Inteligência Artificial do IFB se uniram em grupos para desenvolver uma série de scripts e 
 relatórios a partir dos dados coletados com a partir do site  http://www.nuforc.org/ . 
 Ao longo do desenvolvimento da prática tivemos contato com vários conceitos das três áreas, utilizando principalmente 
-as bibliotecas zipcodes, pymongo, sklearn, statsmodels( SARIMAX ) e pandas, presente durante todo o projeto. Seguindo o framework ágil Scrum,
+as bibliotecas zipcodes, pymongo, sklearn, statsmodels (SARIMAX) e pandas, presente durante todo o projeto. Seguindo o framework ágil Scrum,
 toda a prática foi dividida em três 
   ## Sprints:
     1 - Coleta por web scraping e exploração de dados com SQL.
